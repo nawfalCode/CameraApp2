@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res" >
+            <file
+                name="ic_launcher"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="aac"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\aac.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apk"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\apk.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="avi"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\avi.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="back"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\back.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="blank"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\blank.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="doc"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\doc.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="folder"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\folder.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="gif"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\gif.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="jpg"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\jpg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mp3"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\mp3.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="mp4"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\mp4.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="pdf"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\pdf.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="png"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\png.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ppt"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\ppt.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="rar"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\rar.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="rtf"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\rtf.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="txt"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\txt.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="xls"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\xls.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="zip"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\zip.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="_blank"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-mdpi\_blank.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="file_row"
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\layout\file_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\values\strings.xml"
+                qualifiers="" >
+                <string name="fileSize" >File Size
+                </string>
+                <string name="app_name" >Simple File Chooser
+                </string>
+                <string name="currentDir" >Current Dir
+                </string>
+            </file>
+            <file
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+            <file
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\build\generated\res\rs\release" />
+        <source path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\build\generated\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="D:\Documents\AndroidStudioProjects\CameraApp2\lib\Simple Android File Chooser\src\release\res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:weightSum="1"
+    android:id="@+id/firstlayout">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/welcomemsg"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:editable="false"
+        android:gravity="center_vertical"
+        android:layout_weight="0.13"
+        android:textColor="#fff6ff18" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/clickme"
+        android:id="@+id/textView2"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.13"
+        android:textStyle="bold"
+        android:theme="@android:style/Holo.ButtonBar.AlertDialog"
+        android:textColor="#ffffe64c" />
+</LinearLayout>

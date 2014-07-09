@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tap">Tap Habibi to open the camera!!</string>
+    <string name="text">Enter you Signature</string>
+    <string name="welcomemsg">Welcome To Nawfals Apps World</string>
+    <string name="clickme">Tap 2 Start your App... </string>
+    <string name="title_activity_firstwin">firstwin</string>
+    <string name="savetext">Save Pic</string>
+    <string name="send_to">Send To</string>
+
+</resources>
